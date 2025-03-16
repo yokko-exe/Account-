@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.social-media-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-media-list li {
+    margin: 10px 0;
+}
+
+.social-media-list a {
+    text-decoration: none;
+    color: #35424a;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+.social-media-list a:hover {
+    color: #e8491d;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #35424a;
+    color: #ffffff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
